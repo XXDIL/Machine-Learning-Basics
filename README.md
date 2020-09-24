@@ -7,5 +7,7 @@
 3) [ML-A3](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A3)
 4) [Box Muller](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/Box_Muller)
 5) [ML-A4](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A4)
+6) [ML-A5](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A5)
+7) [ML-A6](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A6)
 
 WIP
