@@ -12,4 +12,6 @@
 3) NAND gate
 4) NOR gate
 
-#### Then using this knowlegde we will be modelling the X-NOR Gate (Back Prop)
+#### Then using this knowlegde we will be modelling the 
+
+1) X-NOR Gate (Back Prop)
