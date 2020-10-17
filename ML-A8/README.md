@@ -15,3 +15,7 @@
 #### Then using this knowlegde we will be modelling the 
 
 1) X-NOR Gate (Back Prop)
+
+The basic idea is to combine 2 or more Perceptrons to get a new function (in our case the XNOR gate)
+
+![ANN2](https://user-images.githubusercontent.com/66634743/96352445-3c8e4500-10d4-11eb-842b-395a76e9a2d1.png)
