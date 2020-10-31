@@ -10,7 +10,8 @@
 #### 6) [ML-A5](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A5)
 #### 7) [ML-A6](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A6)
 #### 8) [ML-A7](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A7)
-#### 9) [ML-A8](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A8)
-#### 10) [ML-A9](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A9)
+#### 9) [ML-A7.2](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A7.2)
+#### 10) [ML-A8](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A8)
+#### 11) [ML-A9](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A9)
 
 WIP
