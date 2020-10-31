@@ -9,3 +9,5 @@ In this section, we will learn more about SVM's and more specifically the **Sequ
 The RBF kernel on two samples x and x', represented as feature vectors in some input space, is defined as : 
 
 ![IMAGE 1](https://wikimedia.org/api/rest_v1/media/math/render/svg/c16fd6c515412f96a57506103896178d0e8af77d)
+
+**NOTE : We will be doing all this on thr Cleveland Data set for Heart disease.**
