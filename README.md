@@ -35,7 +35,10 @@ This Repo is basically setup for anyone that needs help understandig the basics 
 - Artificial Neural Networks (ANN)
 #### 11) [ML-A9](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A9)
 - Bidirectional Associative Memory (BAM)
-#### 12) [ML-A10](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A10)
+#### 12) [Decision Tree](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/Decision%20Tree)
+- GINI Impurity
+- Information Gain
+#### 13) [ML-A10](https://github.com/XXDIL/Machine-Learning-Basics/tree/master/ML-A10)
 - Self Organizing Neural Network (SONN)
 
-WIP
+(Almost done)
